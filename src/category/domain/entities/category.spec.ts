@@ -1,6 +1,5 @@
 import { UniqueEntityId } from '../../../@seedwork/domain/unique-entity-id.vo'
 import { omit } from "lodash"
-import { validate as uuidValidate } from 'uuid'
 
 import { Category, CategoryProps } from "./category"
 
